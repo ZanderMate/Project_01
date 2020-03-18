@@ -1,6 +1,6 @@
 # The Peace Project
 
-Deployed App: https://peace-project.netlify.com/
+Deployed Application: https://peace-project.netlify.com/
 
 ---
 
